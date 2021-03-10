@@ -1,0 +1,6 @@
+id name year course
+1 Astha 2 101
+5 Dinesh 1 105
+3 Rajesh 1 106
+1 Astha 2 106
+6 Amit 4 109
